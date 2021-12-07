@@ -13,7 +13,9 @@ Hoje em dia utilizamos em nossos projetos as seguintes tecnologias:
 - SCSS ou SASS;
 
 ## 🔥 Bora pro desafio?!
-Desafiamos você a desenvolver uma tela de listagem de conteúdos que possibilite irmos para os detalhes de cada conteúdo da lista, este deve possibilitar a visualização, o download ou o consumo em uma nova aba desse conteúdo.
+Desafiamos você a desenvolver uma tela que liste conteúdos. Nessa listagem devemos ter uma opção de ver detalhes de cada conteúdo, que ao ser clicado pelo usuário, redireciona-o para uma outra tela que exibe os detalhes desse conteúdo e que dá opções de visualização desse conteúdo, renderizando-o dentro de um iframe, ou em um player ou até mesmo criando um link que redireciona o usuário para uma nova aba.
+
+Obs: Você é livre para criar a experiência que achar melhor para essas telas.
 
 ### 💾 Dados que devem ser utilizados
 ```javascript
