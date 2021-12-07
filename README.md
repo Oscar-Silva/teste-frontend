@@ -15,7 +15,7 @@ Hoje em dia utilizamos em nossos projetos as seguintes tecnologias:
 ## 🔥 Bora pro desafio?!
 Desafiamos você a desenvolver uma tela de listagem de conteúdos que possibilite irmos para os detalhes de cada conteúdo da lista, este deve possibilitar a visualização, o download ou o consumo em uma nova aba desse conteúdo.
 
-### 💾 Dados que devem ser utilizados:
+### 💾 Dados que devem ser utilizados
 ```javascript
 [
   {
@@ -87,18 +87,24 @@ Desafiamos você a desenvolver uma tela de listagem de conteúdos que possibilit
 ]
 ```
 
-## 😉 Alguns "toques" que podemos lhe dar...
-Abaixo estão listadas algumas observações que podem ser importantes para a realização desse desafio.
+## 😉 Dicas que podemos lhe dar...
+Algumas observações que podem ser importantes para a realização desse desafio.
 
 ### 📚 Um dos principais diferenciais da Skore é suportar diversos tipos de conteúdos.
-Pedimos que você utilize sua criatividade para exibir os tipos de conteúdo da maneira que achar melhor, desde o uso de bibliotecas até o HTML nativo.
+Pedimos que você utilize sua criatividade para exibir os tipos de conteúdo da maneira que achar melhor, desde o HTML nativo até o uso de bibliotecas.
 
 ### 💅🏿 Gostariamos muito de ver como você estiliza aplicações.
 Nesse desafio desencorajamos o uso de frameworks de layout como Vuetify, Tailwind etc. Pedimos também que você faça o melhor layout que puder deixando-o responsivo e interativo.
 
 ### 🤷‍♀️ Sabemos que dúvidas sempre aparecem...
-Lidar com as incertezas é um valor muito importante dentro da Skore. Caso isso ocorra, pedimos que você tome as decisões necessárias e explique-as ao submeter o Pull Request.
+Lidar com as incertezas é um valor muito importante dentro da Skore. Caso isso ocorra, pedimos que você tome as decisões necessárias e explique-as ao enviar o desafio.
 
 
-### 🧪 Testar aplicações fazem parte do dia a dia de qualquer pessoa desenvolvedora que trabalha aqui!
-Encorajamos você a testar sua aplicação escrevendo testes unitários.
+### 🧪 Encorajamos você a testar sua aplicação escrevendo testes unitários!
+Testar aplicações fazem parte do dia a dia de qualquer pessoa desenvolvedora que trabalha aqui.
+
+
+## 🎉 Tudo pronto... E agora?!
+Após terminar o seu teste, pedimos que caso você ainda não tenha feito, crie um repositório no Github e nos envie o link dele.
+
+Feito isso, a responsa agora é nossa! Iremos analisar o seu código e entraremos em contato assim que possível. 😊
