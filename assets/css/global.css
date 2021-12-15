@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+  transition: all 0.4s;
+}
+
+*::-webkit-scrollbar {
+  width: 6px;
+  height: 4px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #0c6e65;
+  transition: all 0.5s;
+  border-radius: 5px;
+}
+
+
+*:focus {
+  outline: 0;
+}
+
+:root {
+  --primaryColor: #e1e1e1;
+  --secondaryColor: #00b894;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
