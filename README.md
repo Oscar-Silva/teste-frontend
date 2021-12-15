@@ -29,15 +29,15 @@ Ele também pode clicar em uma missão e ir para tela de detalhes.
 
 Endpoints:
 
-* Listagem de missões: `https://us-central1-challenge-334613.cloudfunctions.net/api/missions`
+- Listagem de missões: `https://us-central1-challenge-334613.cloudfunctions.net/api/missions`
 
-* Missão por id: `https://us-central1-challenge-334613.cloudfunctions.net/api/missions/{id}`
+- Missão por id: `https://us-central1-challenge-334613.cloudfunctions.net/api/missions/{id}`
 
 ### Tarefas
 
-- [ ] Listar missões
-- [ ] Filtrar missões por status
-- [ ] Exibir detalhe da missão
+- [x] Listar missões
+- [x] Filtrar missões por status
+- [x] Exibir detalhe da missão
 
 ### Dicas
 
